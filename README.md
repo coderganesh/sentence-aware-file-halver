@@ -1,5 +1,5 @@
-# sentence-file-halver
-Sentence-aware text file halver: Halve a text file without sentence distortion
+# sentence-aware-file-halver
+A sentence-aware file halver which halves a text file without sentence distortion.
 
 ## Sentence File Halver
 Command-line utility to halve a given text file without sentence distortion.
